@@ -1,5 +1,5 @@
 import knex from 'knex'
-import { Knex } from 'knex'
+import Knex = require('knex');
 import dotenv from 'dotenv'
 
 dotenv.config()

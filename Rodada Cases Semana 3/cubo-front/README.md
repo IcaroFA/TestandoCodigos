@@ -1,0 +1,1 @@
+## Projeto Cubo (Full Stack - Dev: Ícaro Ferreira do Amaral)
